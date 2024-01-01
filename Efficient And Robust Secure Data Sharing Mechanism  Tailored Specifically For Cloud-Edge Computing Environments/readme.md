@@ -1,1 +1,4 @@
-.
+# Efficient And Robust Secure Data Sharing Mechanism  Tailored Specifically For Cloud-Edge Computing Environments
+## Abstract
+As businesses move toward cloud environments, it becomes increasingly important to ensure robust security measures. This research paper covers the current state of cloud security technology and explores innovative approaches to reduce risk and protect sensitive data. This study evaluates the effectiveness of cryptographic algorithms, access control mechanisms, and intrusion detection systems within cloud infrastructures. The study focuses on streamlining data sharing procedures, placing a strong emphasis on effectiveness and secure controls designed specifically for this hybrid environment. Advanced encryption protocols, dynamic access controls, and adaptive authentication techniques are important elements of the suggested mechanism. The paper offers valuable insights for enhancing secure data sharing practices in cloud-edge computing scenarios by contributing a thorough analysis of the effectiveness and robustness of the devised mechanism.	
+## Introduction
